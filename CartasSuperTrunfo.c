@@ -7,7 +7,7 @@
 //Teste Fernando
 
 int main() {
-    /  // Carta 1
+    // Carta 1
     char estado1;
     char codigocarta1[4]; // 3 + \0
     char cidade1[50];
